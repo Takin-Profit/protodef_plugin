@@ -1,0 +1,28 @@
+{
+  "name": "protodef_plugin",
+  "version": "0.1.0",
+  "description": "types used for creating plugins for https://github.com/Takin-Profit/ProtoDef",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Takin-Profit/protodef_plugin"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protodef",
+    "plugin",
+    "rpc",
+    "idl",
+    "avro",
+    "protobuf",
+    "json",
+    "schema",
+    "types",
+    "typescript",
+    "ts",
+    "http"
+  ],
+  "author": "Takin Profit",
+  "license": "ISC"
+}
